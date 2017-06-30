@@ -1,0 +1,5 @@
+<project name="MyProject">
+<target name="sample">
+
+<echo>build executed sucessfully</echo>
+</target>
