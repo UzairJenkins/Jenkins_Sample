@@ -2,6 +2,7 @@
 <target name="sample">
 
 <echo>build executed sucessfully</echo>
+  <echo>automatically picked up</echo>
 </target>
   
 </project>
